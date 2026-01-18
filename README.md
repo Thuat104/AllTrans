@@ -1,4 +1,4 @@
-#![AllTrans](https://raw.githubusercontent.com/akhilkedia/AllTrans/master/app/src/main/res/mipmap-hdpi/ic_launcher.png)AllTrans - Completely Translate Apps
+ #![AllTrans](https://raw.githubusercontent.com/akhilkedia/AllTrans/master/app/src/main/res/mipmap-hdpi/ic_launcher.png)AllTrans - Completely Translate Apps
 
 Like Chrome translation of webpages, but for Android apps.
 
